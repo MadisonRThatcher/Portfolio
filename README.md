@@ -1,13 +1,18 @@
 ## Madison Thatcher Portfolio 
 <i>See my [LinkedIn](https://www.linkedin.com/in/madisonthatcher/)</i>
 ## Education
-### Univeristy of Denver, Daniels College of Business
+### University of Denver, Daniels College of Business
 Bachelor of Science Business Administration || Business Information and Analytics, June 2024  
 Minor: Environmental Science 
 ### The National University of Ireland, Maynooth                                                  
 International Studies Program   	  	  	  	  	  	     
 Honors: Cherrington Global Scholar  
 ## Professional Expirence
+### Charter Communications
+<b>Data Analyst </b>                   	  	  	  	  	                  
+•	Provide in-depth analysis and insights into staffing percentages, operational expenditures (OPEX), capital expenditures (CAPEX), and rolling forecasts
+• Employ advanced Excel and Python functionalities for data analysis and financial modeling  
+•	Create professional presentations and reports using MS PowerPoint and MS Word to communicate complex information effectively
 ### Forest Ecology Lab                                 								    
 <b>Student Research Assistant </b>                   	  	  	  	  	                  
 •	Increase data quality by building a database  
